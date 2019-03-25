@@ -3,11 +3,10 @@
 <p align="center">
     
 <p>instruções</p>
-<p>1- composer install</p>
-<p>2- Criar um database</p/>
-<p>3- Configurar sua ENV </p>
-<p>4- php artisan migrate</p>
-<p>5- php artisan server </p>
+<p>1- Baixar o repositrio</p>
+<p>2- Configurar da database em .env</p/>
+<p>3- gerar as tabelas e semear o banco com db:seed </p>
+<p>4- executar a aplicação</p>
 
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
