@@ -1,0 +1,18 @@
+.btn-uplexis {
+    border: 1px solid #aaaaaa;
+    border-radius: 30px;
+    background: transparent;
+    color: #4e4e4e;
+    text-transform: uppercase;
+    font-size: 1em;
+    font-family: "Gotham";
+    padding: 5px 20px;
+    margin: 10px 0;
+    display: inline-block !important;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 0.8em;
+    background-color: #ee5e0e;
+    color: #fff;
+    border-color: #ee5e0e;
+}
